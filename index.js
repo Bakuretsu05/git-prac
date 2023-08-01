@@ -9,3 +9,8 @@ function increment() {
 function decrement() {
     countDisplay.innerHTML = --count;
 }
+
+function resetCount() {
+    count = 0;
+    countDisplay.innerHTML = count;
+}

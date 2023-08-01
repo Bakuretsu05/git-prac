@@ -37,3 +37,7 @@ body {
 #decrement-btn {
     background: lightcoral;
 }
+
+#reset-btn {
+    width: auto;
+}
