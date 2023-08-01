@@ -14,7 +14,23 @@ body {
     justify-content: center;
     align-items: center;
 }
+
 #count {
     color: white;
     font-size: 5rem;
+}
+
+.btn {
+    padding: 10px;
+    height: 50px;
+    width: 50px;
+    font-weight: bold;
+    font-size: 1.2rem;
+    outline: none;
+    border: none;
+    border-radius: 5px;
+}
+
+#increment-btn {
+    background: greenyellow;
 }
