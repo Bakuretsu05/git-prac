@@ -14,3 +14,7 @@ body {
     justify-content: center;
     align-items: center;
 }
+#count {
+    color: white;
+    font-size: 5rem;
+}
