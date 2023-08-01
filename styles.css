@@ -33,3 +33,7 @@ body {
 #increment-btn {
     background: greenyellow;
 }
+
+#reset-btn {
+    width: auto;
+}
